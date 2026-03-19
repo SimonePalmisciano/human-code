@@ -1,0 +1,48 @@
+INIZIO
+-Controllo la mia ricetta
+-FINCHE la mia lasgna non è buona come quella della nonna E non mi sono stufato di mangiare la lasgna
+    -chiamo la nonna
+    -SE la nonna risponde
+        -le elenco i miei ingredienti e li confronto con i suoi
+        -SE la nonna ha degli ingredienti segreti
+            -cambio i miei ingredienti per rispecchiare quelli della nonna
+        -ALTRIMENTI uso solo i miei ingredienti
+        -SE la nonna ha un preparazione speciale
+            -sostituico la mia ricetta con la sua
+        -ALTRIMENTI continuo con la mia preparazione della ricetta
+        -SE ho tutti gli ingredienti in casa
+            -continuo con la ricetta
+            -seguo le istruzioni della ricetta
+            -inforno la lasagna e aspetto che sia cotta
+            -sforno la lasgna e la mangio
+            -SE è come quella della nonna
+                Ottimo
+            -ALTRIMENTI SE mi sono stufato di mangiare la lasagna tutti i giorni
+                -Decido che non ne vale la pena e non faccio piu la lasgna
+            -ALTRIMENTI SE la nonna puo farmi una lasgna
+                -mangio la lasgna della nonna
+            ALTRIMENTI riprovo domani
+        -ALTRIMENTI vado a fare la spesa
+            -ho gli ingredienti
+            -continuo con la ricetta
+            -seguo le istruzioni della ricetta
+            -inforno la lasagna e aspetto che sia cotta
+            -sforno la lasgna e la mangio
+            -SE è come quella della nonna
+                -Ottimo
+            -ALTRIMENTI SE mi sono stufato di mangiare la lasagna tutti i giorni
+                -Decido che non ne vale la pena e non faccio piu la lasgna
+            -ALTRIMENTI SE la nonna puo farmi una lasgna
+                -mangio la lasgna della nonna
+            -ALTRIMENTI riprovo domani   
+    -ALTRIMENTI continuo a seguire la normale ricetta
+        -seguo le istruzioni della ricetta
+        -inforno la lasagna e aspetto che sia cotta
+        -sforno la lasgna e la mangio
+        -SE è come quella della nonna
+            -Ottimo
+        -ALTRIMENTI SE mi sono stufato di mangiare la lasagna tutti i giorni
+            -Decido che non ne vale la pena e non faccio piu la lasgna
+        -ALTRIMENTI SE la nonna puo farmi una lasgna
+            -mangio la lasgna della nonna
+        -ALTRIMENTI riprovo domani  
