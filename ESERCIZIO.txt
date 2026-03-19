@@ -1,6 +1,6 @@
 INIZIO
 -Controllo la mia ricetta
--FINCHE la mia lasgna non è buona come quella della nonna E non mi sono stufato di mangiare la lasgna
+-FINCHE la mia lasgna non è buona come quella della nonna O non mi sono stufato di mangiare la lasgna
     -chiamo la nonna
     -SE la nonna risponde
         -le elenco i miei ingredienti e li confronto con i suoi
