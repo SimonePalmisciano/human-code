@@ -36,13 +36,4 @@ INIZIO
                 -mangio la lasgna della nonna
             -ALTRIMENTI riprovo domani   
     -ALTRIMENTI continuo a seguire la normale ricetta
-        -seguo le istruzioni della ricetta
-        -inforno la lasagna e aspetto che sia cotta
-        -sforno la lasgna e la mangio
-        -SE è come quella della nonna
-            -Ottimo
-        -ALTRIMENTI SE mi sono stufato di mangiare la lasagna tutti i giorni
-            -Decido che non ne vale la pena e non faccio piu la lasgna
-        -ALTRIMENTI SE la nonna puo farmi una lasgna
-            -mangio la lasgna della nonna
-        -ALTRIMENTI riprovo domani  
+        -ripeto dal rigo (15) 
